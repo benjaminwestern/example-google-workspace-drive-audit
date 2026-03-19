@@ -1,0 +1,14 @@
+[env]
+GOOGLE_WORKSPACE_CLI_KEYRING_BACKEND = "file"
+
+[tools]
+# Mirrors the tool identities already used in ~/.config/mise/config.toml.
+node = "latest"
+python = "latest"
+gcloud = "latest"
+"npm:@googleworkspace/cli" = "latest"
+
+# Runtime and local analysis dependencies for this project.
+jq = "1.8.1"
+duckdb = "1.5.0"
+bats = "1.13.0"

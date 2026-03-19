@@ -144,6 +144,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local audit and remediation outputs can contain live tenant metadata.
+output/
+
 # Spyder project settings
 .spyderproject
 .spyproject

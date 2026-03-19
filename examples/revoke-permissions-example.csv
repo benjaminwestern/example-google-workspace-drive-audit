@@ -1,0 +1,6 @@
+file_id,permission_id,shared_drive_name,item_path,permission_type,permission_role,permission_email_address,permission_domain,permission_is_direct,permission_is_inherited_only
+item_alpha_002,perm_alpha_001,Shared Drive Alpha,Shared Drive Alpha / External collaboration / Project Atlas,user,writer,consultant.one@partner.example,,true,false
+item_alpha_002,perm_alpha_002,Shared Drive Alpha,Shared Drive Alpha / External collaboration / Project Atlas,user,writer,consultant.two@partner.example,,true,false
+item_alpha_002,perm_alpha_003,Shared Drive Alpha,Shared Drive Alpha / External collaboration / Project Atlas,user,writer,reviewer@contractor.example,,true,false
+item_alpha_003,perm_alpha_004,Shared Drive Alpha,Shared Drive Alpha / External collaboration / Project Atlas / Drawings,user,commenter,field.lead@partner.example,,true,false
+item_alpha_005,perm_alpha_005,Shared Drive Alpha,Shared Drive Alpha / External collaboration / Project Atlas / Handover checklist,user,writer,handover.coordinator@partner.example,,true,false
